@@ -3,7 +3,7 @@
 <img alt="c++" height="100" src="Imagenes/retro.png"/>
 </div>
 
-> Here you will find everything that I learned in C++
+> Here you will find everything that I learned in C++ \n
 > Visit me at me profile [here](https://github.com/UP210630)
 >
 > [♫](https://www.youtube.com/watch?v=k_TbOH8iE4U)
