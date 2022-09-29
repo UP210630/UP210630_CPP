@@ -1,5 +1,5 @@
   <div align ="center">
- >#**Welcome to the repo of Kuro**
+ <font size="6">Welcome to the repo of Kuro</font>
   </div>
 
   <div align ="center">
@@ -11,10 +11,8 @@ Visit me at me profile [here](https://github.com/UP210630)
 
 [♫](https://www.youtube.com/watch?v=k_TbOH8iE4U)
 
->##Main Structure
+<font size="4">Main Structure</font>
 >U1 Programming introduction <br>
 >U2 Control structures and cycles <br>
 >U3 Functions <br>
 >U4 Files and arrays
-
-
