@@ -1,6 +1,6 @@
 /*
 Date: Sep/25/2022
-Author: Miguel Alejandro Alba Sánchez
+Author: Miguel Alejandro alba Sánchez
 Email: up2106320@alumnos.upa.edu.mx
 Description: DataEntry
 Last Modification: Sep/25/2022
